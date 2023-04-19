@@ -60,9 +60,7 @@ public class Solucion {
                     }
                 }
             }
-            
         }
-        
     }
     
     public void MostrarResultado(double M[][], int filas, int columnas) {
